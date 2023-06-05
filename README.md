@@ -1,3 +1,3 @@
 # app-pacientes-veterinaria
 Aplicación de paciente de veterinaria con React y Tailwindcss
-link netflify: https://celebrated-pixie-b85b62.netlify.app/
+link netflify: https://main--gregarious-empanada-481839.netlify.app/
